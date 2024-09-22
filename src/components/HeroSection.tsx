@@ -61,10 +61,12 @@ const HeroSection = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 1.5 }}
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et molestias
-          hic dolor cum voluptates, dicta ex velit ea consectetur repellendus
-          eum doloremque iusto, consequatur aliquid quos quam perspiciatis,
-          nulla atque praesentium nesciunt! Obcaecati explicabo necessitatibus.
+          At TokenTide, we believe in the future of decentralized collaboration.
+          Empower your team with seamless, secure, and transparent workflows
+          powered by blockchain technology. Whether you&apos;re managing digital
+          assets, automating smart contracts, or collaborating across borders,
+          TokenTide offers the tools to ensure every project is completed
+          efficiently and securely.
         </motion.p>
 
         <motion.div

@@ -43,12 +43,11 @@ const Features = () => {
               <PaperPlaneIcon className="w-10 h-10 text-white" />
             </div>
             <h3 className="text-[20px] font-[800] text-white">
-              Low Fees, Scalability
+              Enhanced Security
             </h3>
             <p className="w-full text-[14px] text-gray-400 text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Et
-              molestias hic dolor cum voluptates, dicta ex velit ea consectetur
-              repellendus eum doloremque iusto.
+              Built on blockchain, ensuring your data and transactions are
+              protected.x velit ea consectetur repellendus eum doloremque iusto.
             </p>
           </motion.div>
         ))}

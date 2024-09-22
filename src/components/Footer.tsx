@@ -33,8 +33,8 @@ const Footer = () => {
             Token<span className="text-blue-700">Tide</span>
           </Link>
           <p className="w-[300px] text-[15px] text-gray-500 text-left">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et
-            molestias hic dolor cum voluptates.
+            At TokenTide, we&apos;re redefining how teams collaborate in the
+            digital age.
           </p>
           <h5 className="text-[18px] text-white font-[800]">
             Join the community

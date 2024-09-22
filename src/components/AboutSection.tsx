@@ -49,9 +49,13 @@ const AboutSection = () => {
         </h1>
 
         <p className="w-[90%] md:w-[45%] lg:w-[500px] text-[15px] text-gray-400 text-center lg:text-left">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et molestias
-          hic dolor cum voluptates, dicta ex velit ea consectetur repellendus
-          eum doloremque iusto.
+          At TokenTide, we&apos;re redefining how teams collaborate in the
+          digital age. By leveraging the power of Web3 and blockchain
+          technology, we provide a decentralized platform that empowers teams to
+          work securely, transparently, and efficiently across borders. Our
+          mission is to enable seamless collaboration, foster innovation, and
+          ensure that every team has the tools to thrive in a decentralized
+          world.
         </p>
 
         <ul className="flex flex-col gap-5">
